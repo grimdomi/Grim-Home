@@ -1,0 +1,5 @@
+2013-11-29 09:33:10 WARNING 7dbcc025298513f63fd2 (Guest) class_module_pages_portal.php:getPageData:46 Requested page index not existing in language de, switch to fallback lang
+2013-11-29 14:40:22 ERROR  class_exception.php:processException:176 class_request_dispatcher.php:259 -- module pages not installed!
+2013-11-29 14:40:34 ERROR  class_exception.php:processException:176 class_request_dispatcher.php:259 -- module pages not installed!
+2013-11-29 14:43:07 ERROR  class_exception.php:processException:176 class_request_dispatcher.php:259 -- module pages not installed!
+2013-11-29 14:43:09 ERROR  class_exception.php:processException:176 class_request_dispatcher.php:259 -- module pages not installed!

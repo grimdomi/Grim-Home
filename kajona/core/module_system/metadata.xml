@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="http://apidocs.kajona.de/xsd/package.xsd"
+        >
+    <title>system</title>
+    <description>Core of the Kajona framework. By default, the system-packages includes several modules, e.g. system, permissions, user, messaging and languages.</description>
+    <version>4.3.1</version>
+    <author>Kajona Team</author>
+    <type>MODULE</type>
+    <providesInstaller>TRUE</providesInstaller>
+    <requiredModules />
+</package>
